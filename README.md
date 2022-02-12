@@ -2,7 +2,7 @@
 
 ### 1. Create virtual env and install the required packages and run flask app
 ```
-run.sh
+sh run.sh
 ```
 
 ### 2. To get the Top 10 Search Terms based on aggregated cost and conversion value data
